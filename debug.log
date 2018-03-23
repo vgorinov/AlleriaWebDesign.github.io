@@ -1,0 +1,9 @@
+[0320/175707.440:ERROR:settings.cc(266)] Settings version is not 1
+[0320/193539.295:ERROR:settings.cc(266)] Settings version is not 1
+[0320/203659.056:ERROR:settings.cc(266)] Settings version is not 1
+[0320/210358.275:ERROR:settings.cc(266)] Settings version is not 1
+[0321/135055.080:ERROR:settings.cc(266)] Settings version is not 1
+[0321/135641.716:ERROR:settings.cc(266)] Settings version is not 1
+[0321/162709.537:ERROR:settings.cc(266)] Settings version is not 1
+[0321/215719.000:ERROR:settings.cc(266)] Settings version is not 1
+[0322/154157.809:ERROR:file_io.cc(41)] write: The pipe is being closed. (0xE8)
